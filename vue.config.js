@@ -1,4 +1,6 @@
 module.exports = {
+  //此处设置  为了  配置到 githubPage 可删除 默认为 ‘’
+  assetsDir:'./',
   devServer: {
     // port: 80,
     disableHostCheck: true,
